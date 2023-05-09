@@ -15,6 +15,6 @@ As ststeed above, the main purpose is to provide simple examples for Git trainin
 This is a simple web project, deployment can be any web server or local file system.
 
 ##How To Contribute
-
+Please fork this repository and then issue Pull Requests for review.
 ##Copyright
 2014 Git.Training.
