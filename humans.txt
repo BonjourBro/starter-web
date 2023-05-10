@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+  Touy Ounei  touy.ounei@integration.works.  @someTwiter  
 
 # THANKS
 
